@@ -1,10 +1,12 @@
 # Presentations
 
-My presentations
+My presentations for various events.
 
 ## Edmonton Python Meetup
 
-Edmonton Python meetup, every second Monday evening 6:30pm at Startup Edmonton.
+    Edmonton Python meetup
+    Every second Monday evening of each month
+    6:30pm at Startup Edmonton
 
 1. June 11, 2018: [Be prepared to enter the world of AI: Environment setup guide](./Edmonton%20Python%20Meetup/Be%20prepared%20to%20enter%20the%20world%20of%20AI.pdf)
     - Abstract: A through walk though of how to setup local environment for development. Installation of Anaconda and Tensorflow, Sublimettext setup, etc.
