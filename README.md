@@ -26,3 +26,14 @@ My presentations for various events.
 
 1. April 3, 2019 [How to Compete in Kaggle](./Edmonton%20Data%20Science%20Meetup/How%20to%20compete%20in%20kaggle.pdf)
     - Abstract: Introduction to kaggle based on careercon competition. Some eda, a couple of cool visualization packages, and a workflow for how to do data science prediction (from eda to modelling to hyperparameter tuning).
+
+
+## Calgary Python Meetup (PyYYC)
+
+    Calgary Python Meetup
+    Every fourth Wednesday evening of each month
+    6:30pm at Assembly Coworking Space
+
+1. October 23, 2019 [Python Best Practice](./Calgary%20Python%20Meetup/Python%20Best%20Practice.pdf)
+    - Abstract: Some advice and code snippets to show what are the best Python Practices. This presentation is aggree to disagree as the so-called "Best Practice" is people's opinion and is accepted by majority but there is always debates.
+    - 
