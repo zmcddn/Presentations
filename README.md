@@ -34,6 +34,6 @@ My presentations for various events.
     Every fourth Wednesday evening of each month
     6:30pm at Assembly Coworking Space
 
-1. October 23, 2019 [Python Best Practice](./Calgary%20Python%20Meetup/Python%20Best%20Practice.pdf)
+1. October 23, 2019 [Python Best Practice](./Calgary%20Python%20Meetup%20PyYYC/Python%20Best%20Practice.pdf)
     - Abstract: Some advice and code snippets to show what are the best Python Practices. This presentation is aggree to disagree as the so-called "Best Practice" is people's opinion and is accepted by majority but there is always debates.
-    - 
+
