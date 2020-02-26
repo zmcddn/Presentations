@@ -37,3 +37,5 @@ My presentations for various events.
 1. October 23, 2019 [Python Best Practice](./Calgary%20Python%20Meetup%20PyYYC/Python%20Best%20Practice.pdf)
     - Abstract: Some advice and code snippets to show what are the best Python Practices. This presentation is aggree to disagree as the so-called "Best Practice" is people's opinion and is accepted by majority but there is always debates.
 
+2. February 26, 2020 [Python Fundamentals - List, Set, Dictionary, and String](./Calgary%20Python%20Meetup%20PyYYC/Python%20Fundamentals%20-%20list%20set%20dictionary%20and%20string.pdf)
+    - Abstract: A guide for the python list, set, dictionary and string operations and advanced operations
