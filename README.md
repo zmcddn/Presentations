@@ -39,3 +39,6 @@ My presentations for various events.
 
 2. February 26, 2020 [Python Fundamentals - List, Set, Dictionary, and String](./Calgary%20Python%20Meetup%20PyYYC/Python%20Fundamentals%20-%20list%20set%20dictionary%20and%20string.pdf)
     - Abstract: A guide for the python list, set, dictionary and string operations and advanced operations
+
+3. March 25, 2020 [Python Fundamentals - Class and OOP](./Calgary%20Python%20Meetup%20PyYYC/Python%20Fundamentals%20-%20Class%20and%20OOP.pdf)
+    - Abstract: A guide for the python class and OOP concepts
