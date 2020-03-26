@@ -42,3 +42,4 @@ My presentations for various events.
 
 3. March 25, 2020 [Python Fundamentals - Class and OOP](./Calgary%20Python%20Meetup%20PyYYC/Python%20Fundamentals%20-%20Class%20and%20OOP.pdf)
     - Abstract: A guide for the python class and OOP concepts
+    - Demo project: [Tic Tac Toe](https://github.com/zmcddn/TicTacToe)
