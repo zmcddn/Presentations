@@ -46,4 +46,5 @@ My presentations for various events.
 
 4. October 28, 2020 [Make Django Admin Great Again - Optimization for table with million rows](./Calgary%20Python%20Meetup%20PyYYC/Make%20Django%20Admin%20Great%20Again.pdf)
     - Abstract: A guide for Django admin site optimization for large table
+    - Recording: https://youtu.be/Vl_dTiZaADg?t=480
 
