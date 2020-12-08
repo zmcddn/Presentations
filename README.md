@@ -48,3 +48,7 @@ My presentations for various events.
     - Abstract: A guide for Django admin site optimization for large table
     - Recording: https://youtu.be/Vl_dTiZaADg?t=480
 
+5. December 6, 2020 [Python Bootcamp Week 2 - Python Fundamentals 4](https://colab.research.google.com/drive/1DfVjwXt_TsxhcD1UGLiD_KPHYYLiF75E#scrollTo=R12TyFbMXBH3)
+    - Series 2 of the Python bootcamp co-organized by GDG CLoud Edmonton and PyYYC
+    - Testing, Type annotation, Python best practices
+    - Recording: https://youtu.be/i3rDeqJuVh8?t=6533
