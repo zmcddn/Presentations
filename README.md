@@ -32,7 +32,7 @@ My presentations for various events.
 
     Calgary Python Meetup
     Every fourth Wednesday evening of each month
-    6:30pm at Assembly Coworking Space
+    6:30pm at Assembly Co-working Space
 
 1. October 23, 2019 [Python Best Practice](./Calgary%20Python%20Meetup%20PyYYC/Python%20Best%20Practice.pdf)
     - Abstract: Some advice and code snippets to show what are the best Python Practices. This presentation is aggree to disagree as the so-called "Best Practice" is people's opinion and is accepted by majority but there is always debates.
@@ -52,3 +52,7 @@ My presentations for various events.
     - Series 2 of the Python bootcamp co-organized by GDG CLoud Edmonton and PyYYC
     - Testing, Type annotation, Python best practices
     - Recording: https://youtu.be/i3rDeqJuVh8?t=6533
+
+6. May 10, 2022 [Python f-string formatting](https://colab.research.google.com/drive/15Qhf25LplLcdfnQQCA2AxKTil6cnFFUu#scrollTo=dLW-yWKQce4J)
+    - Abstract: As an advanced string tool introduced in Python 3.6, it can do way more than you might've thought it would. Today, let's dive deep into f-string formatting and look at the various ways it can help.
+
