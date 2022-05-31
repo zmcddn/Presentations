@@ -55,4 +55,4 @@ My presentations for various events.
 
 6. May 10, 2022 [Python f-string formatting](https://colab.research.google.com/drive/15Qhf25LplLcdfnQQCA2AxKTil6cnFFUu#scrollTo=dLW-yWKQce4J)
     - Abstract: As an advanced string tool introduced in Python 3.6, it can do way more than you might've thought it would. Today, let's dive deep into f-string formatting and look at the various ways it can help.
-
+    - Recording: https://www.youtube.com/watch?v=4S_QGDHTICw&t=556s
